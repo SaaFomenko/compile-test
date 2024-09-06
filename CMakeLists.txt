@@ -7,4 +7,4 @@ set(CMAKE_CXX_STANDARD 11)
 
 set(CMAKE_WINDOWS_EXPORT_ALL_SYMBOLS ON)
 
-add_executable(${PROJECT_NAME}.exe main.cpp)
+add_executable(${PROJECT_NAME} main.cpp)
